@@ -1,5 +1,5 @@
 {
-  "name": "ga2-8b94e6",
+  "name": "ga2-aa28c9",
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
     "ghcr.io/devcontainers/features/python:1": {}
