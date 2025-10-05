@@ -12,5 +12,5 @@
       ]
     }
   },
-  "postCreateCommand": "pip install fastapi"
+  "postCreateCommand": "pip install fastapi uvicorn python-dotenv Authlib itsdangerous httpx"
 }
